@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34009.444
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CatchTheButton", "CatchTheButton\CatchTheButton.csproj", "{28D6A4A2-7BDF-45C6-A878-85369D90CFCF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CTB-Tests", "CTB-Tests\CTB-Tests.csproj", "{ABD4F5F2-754B-4568-BC3F-6EF39AA233BE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{28D6A4A2-7BDF-45C6-A878-85369D90CFCF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{28D6A4A2-7BDF-45C6-A878-85369D90CFCF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{28D6A4A2-7BDF-45C6-A878-85369D90CFCF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{28D6A4A2-7BDF-45C6-A878-85369D90CFCF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ABD4F5F2-754B-4568-BC3F-6EF39AA233BE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ABD4F5F2-754B-4568-BC3F-6EF39AA233BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ABD4F5F2-754B-4568-BC3F-6EF39AA233BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ABD4F5F2-754B-4568-BC3F-6EF39AA233BE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8C6459A3-A562-40DF-9391-DB7B1F34D783}
+	EndGlobalSection
+EndGlobal
